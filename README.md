@@ -9,11 +9,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 **B.Tech CSE** Student at Galgotias College of Engineering and Technology (2023-2027)[cite: 2]
-- 💡 Specializing in **Full-stack Web Development** and **Problem-solving**[cite: 2]
-- 🚀 Experienced in building scalable, user-focused applications like Food Delivery and Financial Dashboards[cite: 2]
-- 🏆 **Smart India Hackathon (SIH) 2025:** Nominated as a top team from college for the **"AgriRover"** project[cite: 2]
-- 🏅 **Galgotias International Hackathon '25:** Project **"FinScope-Pro"** selected and presented among competing teams[cite: 2]
+- 🎓 **B.Tech CSE** Student at Galgotias College of Engineering and Technology (2023-2027)
+- 💡 Specializing in **Full-stack Web Development** and **Problem-solving**
+- 🚀 Experienced in building scalable, user-focused applications like Food Delivery and Financial Dashboards
+- 🏆 **Smart India Hackathon (SIH) 2025:** Nominated as a top team from college for the **"AgriRover"** project
+- 🏅 **Galgotias International Hackathon '25:** Project **"FinScope-Pro"** selected and presented among competing teams
 
 ---
 
@@ -66,16 +66,16 @@
 
 ## 🛠️ Featured Projects
 
-*   **Hunger Go 🍔** - Full-stack MERN food delivery web application featuring a robust RESTful API backend and a dynamic Admin Panel for real-time inventory management. Hosted on Render & Vercel.[cite: 2]
-*   **Laundry Pro 🧺** - Service-tracking application built to streamline order processing, dynamic content management, and customer requests. Optimized with MongoDB.[cite: 2]
-*   **FinScope-Pro 📊** - A specialized frontend dashboard focused on visual data representation to promote financial literacy. Selected for Galgotias International Hackathon '25.[cite: 2]
+*   **Hunger Go 🍔** - Full-stack MERN food delivery web application featuring a robust RESTful API backend and a dynamic Admin Panel for real-time inventory management. Hosted on Render & Vercel.
+*   **Laundry Pro 🧺** - Service-tracking application built to streamline order processing, dynamic content management, and customer requests. Optimized with MongoDB.
+*   **FinScope-Pro 📊** - A specialized frontend dashboard focused on visual data representation to promote financial literacy. Selected for Galgotias International Hackathon '25.
 
 ---
 
 ## 🏆 Coding Milestones
 
-- 🧠 Solved **100+ problems on LeetCode**[cite: 2]
-- 🎯 Solved **100+ problems on HackerRank** (Focus: DSA & Problem Solving)[cite: 2]
+- 🧠 Solved **100+ problems on LeetCode**
+- 🎯 Solved **100+ problems on HackerRank** (Focus: DSA & Problem Solving)
 
 ---
 
